@@ -37,3 +37,13 @@ st.plotly_chart(fig_path)
 st.subheader("Mission Data")
 
 st.dataframe(df)
+
+## Live Dashboard
+
+This project includes an interactive dashboard built with Streamlit for visualizing ROV mission data.
+
+Features:
+
+• Depth profile visualization  
+• Mission trajectory analysis  
+• Interactive mission data table
